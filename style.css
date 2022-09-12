@@ -1,0 +1,83 @@
+element.style {
+}
+body.device-mobile-optimized {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+body {
+    overflow-x: auto;
+    overflow-y: scroll;
+}
+body, html {
+    height: 100%;
+}
+body {
+    font-size: 10px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+:root {
+    --color_0: 6,33,52;
+    --color_27: 148,233,120;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 255,203,5;
+    --color_4: 0,136,203;
+    --color_5: 237,28,36;
+    --color_6: 6,33,52;
+    --color_7: 57,114,155;
+    --color_8: 255,255,255;
+    --color_28: 60,222,6;
+    --color_9: 28,149,239;
+    --color_10: 28,149,239;
+    --color_11: 255,255,255;
+    --color_12: 209,224,235;
+    --color_13: 110,164,202;
+    --color_14: 57,114,155;
+    --color_15: 12,60,96;
+    --color_16: 169,225,236;
+    --color_17: 125,202,218;
+    --color_18: 30,171,199;
+    --color_29: 40,148,4;
+    --color_19: 20,114,133;
+    --color_20: 10,57,66;
+    --color_21: 179,192,211;
+    --color_22: 135,148,167;
+    --color_23: 92,105,123;
+    --color_24: 49,62,79;
+    --color_25: 8,20,35;
+    --color_30: 20,74,2;
+    --color_31: 244,234,177;
+    --color_32: 233,219,137;
+    --color_33: 222,195,40;
+    --color_34: 148,130,27;
+    --color_35: 74,65,13;
+    --font_0: normal normal normal 22px/1.4em raleway,sans-serif;
+    --font_1: normal normal normal 16px/1.2em arial,'ｍｓ ｐゴシック','ms pgothic','돋움',dotum,helvetica,sans-serif;
+    --font_2: normal normal normal 70px/1.4em raleway,sans-serif;
+    --font_3: normal normal normal 60px/1.4em raleway,sans-serif;
+    --font_4: normal normal normal 40px/1.4em raleway,sans-serif;
+    --font_5: normal normal normal 24px/1.4em raleway,sans-serif;
+    --font_6: normal normal normal 18px/1.4em raleway,sans-serif;
+    --font_7: normal normal normal 16px/1.4em 'open sans',sans-serif;
+    --font_8: normal normal normal 14px/1.4em 'open sans',sans-serif;
+    --font_9: normal normal normal 12px/1.4em 'open sans',sans-serif;
+    --font_10: normal normal normal 10px/1.2em arial,'ｍｓ ｐゴシック','ms pgothic','돋움',dotum,helvetica,sans-serif;
+    --wix-ads-height: 0px;
+    --wix-ads-top-height: 0px;
+    --site-width: 320px;
+    --above-all-z-index: 100000;
+Show All Properties (4 more)
+}
