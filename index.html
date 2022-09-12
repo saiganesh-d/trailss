@@ -8,15 +8,17 @@
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <style>
-            @media screen and (min-width:960px){
-  .reg{
-    display: none;
-  }
-}
+         
         </style>
+        <script type = "text/javascript">
+          $(window).scroll(function(){
+        $('nav').toggleClass('scrolled',$(this).scrollTop()>50);
+        
+        });	
+         </script>
     </head>
       <body>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav style="height: 150px;" id="nav" class="navbar navbar-expand-lg fixed-top  bgcolor">
           <div class="container">
             <a class="navbar-brand" href="#">
               <img

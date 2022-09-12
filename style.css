@@ -171,24 +171,19 @@
     top: 8.5rem;
     width: 25.5rem;
   }
-  @media screen and (max-width: 600px){
-    .bg-dark {
-      background-color: #343a40!important;
-      height: 10vh;
-  }
-  .reg{
+ 
+  @media screen and (max-width: 800px) {
+   
+    .navbar-nav.reg{
+    visibility: visible;
     
-    margin-right: 150px;
-  }
-  .banner-section-bg-container {
-   display: none;
-    height: 25vh;
-    
-  }
+    }
+   
   
   }
-  @media screen and (max-width:960px){
-  .reg{
-    display: none;
+  
+
+
+.bgcolor.scrolled{
+    background-color: rgba(0, 0, 0, 0.692);
   }
-}
